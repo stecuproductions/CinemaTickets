@@ -1,0 +1,3 @@
+/mnt/c/Users/stecu/OneDrive/Pulpit/Notatki/Semestr III/oop/projekt/cmake-build-debug/CMakeFiles/QtApp.dir
+/mnt/c/Users/stecu/OneDrive/Pulpit/Notatki/Semestr III/oop/projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/stecu/OneDrive/Pulpit/Notatki/Semestr III/oop/projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir

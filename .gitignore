@@ -1,0 +1,56 @@
+# Pliki wygenerowane przez kompilator
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+# Katalogi build i cmake
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+
+# Pliki log?w i cache
+*.log
+*.cache
+
+# Pliki projektu IDE
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# Pliki tymczasowe systemu operacyjnego
+*.DS_Store
+*.Thumbs.db
+
+# Pliki generowane przez edytory tekstu
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Pliki dla debuggera
+*.dSYM/
+*.stackdump
+*.core
+
+# Pliki z testami
+/tests/output/
+
+# Inne tymczasowe pliki
+*.tar
+*.gz
+*.zip
+*.7z

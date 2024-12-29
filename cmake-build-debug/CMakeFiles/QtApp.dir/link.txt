@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/QtApp.dir/main.cpp.o CMakeFiles/QtApp.dir/include/CinemaManager.cpp.o CMakeFiles/QtApp.dir/include/Seat.cpp.o -o QtApp  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.13 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.13 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.13 
